@@ -1,0 +1,9 @@
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\bin\Debug\Chien-HuaWang_Sec001_Exercise1.exe.config
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\bin\Debug\Chien-HuaWang_Sec001_Exercise1.exe
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\bin\Debug\Chien-HuaWang_Sec001_Exercise1.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\obj\Debug\Chien-HuaWang_Sec001_Exercise1.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\obj\Debug\Chien_HuaWang_Sec001_Exercise1.Properties.Resources.resources
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\obj\Debug\Chien-HuaWang_Sec001_Exercise1.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\obj\Debug\Chien-HuaWang_Sec001_Exercise1.exe
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\obj\Debug\Chien-HuaWang_Sec001_Exercise1.pdb
+C:\Users\owner\Desktop\Chien-HuaWang_Sec001_Exercise1\Chien-HuaWang_Sec001_Exercise1\obj\Debug\Chien_HuaWang_Sec001_Exercise1.Form1_Load.resources
